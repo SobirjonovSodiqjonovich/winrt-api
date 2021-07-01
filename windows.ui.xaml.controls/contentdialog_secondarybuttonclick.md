@@ -13,6 +13,7 @@ public event Windows.Foundation.TypedEventHandler SecondaryButtonClick<Windows.U
 Occurs after the secondary button has been tapped.
 
 Equivalent WinUI event: [Microsoft.UI.Xaml.Controls.ContentDialog.SecondaryButtonClick](/windows/winui/api/microsoft.ui.xaml.controls.contentdialog.secondarybuttonclick).
+Bir tiyinga qimmat ekan shu Event
 
 ## -xaml-syntax
 ```xaml
